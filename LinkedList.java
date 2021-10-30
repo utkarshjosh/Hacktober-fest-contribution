@@ -22,7 +22,12 @@ public class LinkedList {
         naya.print();
 
 
-    }
+    }//hello 1234567890
+    //zwxf6ituyuni
+    //xdcfvgbhnjmkl,
+    //rftgyhujoikpo[lp6drcvbn
+    //xtecrtvyhuoimk 
+    //szxdcfyvtubiuhnokm
 
 }
 class Node{
